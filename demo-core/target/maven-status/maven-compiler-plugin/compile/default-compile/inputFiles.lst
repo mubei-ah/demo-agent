@@ -1,3 +1,4 @@
-/Users/ah_sxh/work/learn/projects/simple-demo/demo-bytecode-instrument/demo-core/src/main/java/com/pphh/demo/common/TimeDateUtil.java
-/Users/ah_sxh/work/learn/projects/simple-demo/demo-bytecode-instrument/demo-core/src/main/java/com/pphh/demo/common/Logger.java
-/Users/ah_sxh/work/learn/projects/simple-demo/demo-bytecode-instrument/demo-core/src/main/java/com/pphh/demo/api/Greeting.java
+/Users/ah_sxh/work/learn/projects/demo-agent/demo-core/src/main/java/com/pphh/demo/common/AgentAnnotation.java
+/Users/ah_sxh/work/learn/projects/demo-agent/demo-core/src/main/java/com/pphh/demo/common/Logger.java
+/Users/ah_sxh/work/learn/projects/demo-agent/demo-core/src/main/java/com/pphh/demo/common/TimeDateUtil.java
+/Users/ah_sxh/work/learn/projects/demo-agent/demo-core/src/main/java/com/pphh/demo/api/Greeting.java
